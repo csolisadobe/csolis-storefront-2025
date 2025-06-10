@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/csolisadobe/csolis-storefront-2025
+    type: markup
+
+folders:
+  /products/: /products/default
